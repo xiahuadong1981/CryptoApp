@@ -2,27 +2,27 @@
 
 cmd调出终端
 
-![1](C:\Users\xiahuadong\Desktop\encryption\CryptoApp-master\photo\1.png)
+![1](.\photo\1.png)
 
 安装pycryptodome包，运行CryptoApp.pyw程序
 
-![](C:\Users\xiahuadong\Desktop\encryption\CryptoApp-master\photo\2.png)
+![](.\2.png)
 
 出现界面，写好配置
 
-![](C:\Users\xiahuadong\Desktop\encryption\CryptoApp-master\photo\3.png)
+![](.\3.png)
 
 打开“目标”文件地址，显示“此PDF已损坏”，证明加密成功，可惜加密的不是文件夹。
 
-![](C:\Users\xiahuadong\Desktop\encryption\CryptoApp-master\photo\4.png)
+![](.\photo\4.png)
 
 设置解密
 
-![](C:\Users\xiahuadong\Desktop\encryption\CryptoApp-master\photo\5.png)
+![](.\photo\5.png)
 
 打开目标文件，文件可以正常打开，证明可以使用。
 
-![](C:\Users\xiahuadong\Desktop\encryption\CryptoApp-master\photo\5.png)
+![](.\photo\5.png)
 
 ## 有几个明显的问题：
 
